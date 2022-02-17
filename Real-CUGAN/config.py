@@ -4,8 +4,8 @@ scale=3
 #参数路径，可更换
 model_path2 = "weights_v3/up2x-latest-no-denoise.pth"
 # model_path2 = "weights_v3/up2x-latest-denoise3x.pth"e
-model_path3 = "weights_v3/up3x-latest-denoise3x.pth"
-model_path4 = "weights_v3/up4x-latest-denoise3x.pth"
+#model_path3 = "weights_v3/up3x-latest-denoise3x.pth"
+#model_path4 = "weights_v3/up4x-latest-denoise3x.pth"
 
 #超分模式，视频or图像文件夹
 mode="image"#video#image
