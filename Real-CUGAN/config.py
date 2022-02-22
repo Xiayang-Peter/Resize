@@ -17,8 +17,8 @@ tile=3
 
 #超图像设置
 device="cuda:0"#0代表卡号，多卡的话可以写不同config并行开，显存多的话一张卡也可以开多个
-input_dir="to-test1"#输入图像路径
-output_dir="to-test1-output3x"#超分图像输出路径
+input_dir="C:\Users\xiaya\Desktop\test.jpg"#输入图像路径
+output_dir="C:\Users\xiaya\Desktop"#超分图像输出路径
 
 #超视频设置
 inp_path="../东之伊甸4raw-clip10s.mp4"
